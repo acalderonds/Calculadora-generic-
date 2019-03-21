@@ -1,0 +1,11 @@
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\bin\Debug\netcoreapp2.1\calculadorageneric.deps.json
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\bin\Debug\netcoreapp2.1\calculadorageneric.runtimeconfig.json
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\bin\Debug\netcoreapp2.1\calculadorageneric.runtimeconfig.dev.json
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\bin\Debug\netcoreapp2.1\calculadorageneric.dll
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\bin\Debug\netcoreapp2.1\calculadorageneric.pdb
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\obj\Debug\netcoreapp2.1\calculadorageneric.csprojAssemblyReference.cache
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\obj\Debug\netcoreapp2.1\calculadorageneric.csproj.CoreCompileInputs.cache
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\obj\Debug\netcoreapp2.1\calculadorageneric.AssemblyInfoInputs.cache
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\obj\Debug\netcoreapp2.1\calculadorageneric.AssemblyInfo.cs
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\obj\Debug\netcoreapp2.1\calculadorageneric.dll
+C:\Users\calderonal\source\repos\calculadorageneric\calculadorageneric\obj\Debug\netcoreapp2.1\calculadorageneric.pdb
